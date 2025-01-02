@@ -444,6 +444,19 @@
       "notes": ""
     },
     {
+      "id": "1350",
+      "name": "Adamantite Plated Skirt",
+      "shop": "false",
+      "shop_price": "13,000",
+      "location": "Obtained from Ranael Skirt Store in Al-Kharid",
+      "members": "false",
+      "logo_url": "https://api.example.com/items/images/adamantite-plate-legs-t.png",
+      "street_price": "0",
+      "high_alchemy": "0",
+      "low_alchemy": "0",
+      "notes": ""
+    },
+    {
       "id": "0035",
       "name": "Adamantite Plate Mail Body (G)",
       "shop": "false",
@@ -1900,6 +1913,19 @@
       "notes": ""
     },
     {
+      "id": "1351",
+      "name": "Bronze Plate Legs",
+      "shop": "false",
+      "shop_price": "100",
+      "location": "Purchased from Louie Legs in Varrock",
+      "members": "false",
+      "logo_url": "https://api.example.com/items/images/black-plate-legs-t.png",
+      "street_price": "0",
+      "high_alchemy": "0",
+      "low_alchemy": "0",
+      "notes": ""
+    },
+    {
       "id": "0147",
       "name": "Black Plate Mail Body",
       "shop": "true",
@@ -1914,9 +1940,9 @@
     },
     {
       "id": "0148",
-      "name": "Black Plate Skirt",
+      "name": "Black Plated Skirt",
       "shop": "false",
-      "shop_price": "0",
+      "shop_price": "1200",
       "location": "Skirt Shop in Al Kharid.",
       "members": "false",
       "logo_url": "https://api.example.com/items/images/black-plate-skirt.png",
@@ -2995,7 +3021,7 @@
       "id": "0231",
       "name": "Bronze Plated Skirt",
       "shop": "false",
-      "shop_price": "0",
+      "shop_price": "100",
       "location": "Skirt store in Al Kharid",
       "members": "false",
       "logo_url": "https://api.example.com/items/images/bronze-plated-skirt.png",
@@ -3017,18 +3043,6 @@
       "low_alchemy": "0",
       "notes": ""
     },
-    {
-      "id": "0233",
-      "name": "Bronze Skirt",
-      "shop": "false",
-      "shop_price": "0",
-      "location": "Player Made or skirt shop in Al Kharid",
-      "members": "false",
-      "logo_url": "https://api.example.com/items/images/bronze-skirt.png",
-      "street_price": "0",
-      "high_alchemy": "0",
-      "low_alchemy": "0",
-      "notes": ""
     },
     {
       "id": "0234",
@@ -8104,7 +8118,7 @@
       "id": "0624",
       "name": "Iron Plated Skirt",
       "shop": "true",
-      "shop_price": "168",
+      "shop_price": "400",
       "location": "Skirt store in Al Kharid",
       "members": "false",
       "logo_url": "https://api.example.com/items/images/iron-plated-skirt.png",
@@ -14656,7 +14670,7 @@
       "id": "1128",
       "name": "Steel Plated Skirt",
       "shop": "false",
-      "shop_price": "0",
+      "shop_price": "900",
       "location": "Skirt store in Al Kharid",
       "members": "false",
       "logo_url": "https://api.example.com/items/images/steel-plated-skirt.png",
