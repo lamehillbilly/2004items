@@ -3659,7 +3659,7 @@
       "name": "Cabbage",
       "shop": "true",
       "shop_price": "1",
-      "location": "Fields bordering Draynor Village, Food Shop in Port Sarim, Monks Monastery next to Ice Mountain.",
+      "location": "Field bordering Draynor Village, Food Shop in Port Sarim, Monks Monastery next to Ice Mountain.",
       "members": "false",
       "logo_url": "https://api.example.com/items/images/cabbage.png",
       "street_price": "0",
