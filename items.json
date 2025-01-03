@@ -12887,8 +12887,8 @@
     {
       "id": "0988",
       "name": "Rune Dagger",
-      "shop": "false",
-      "shop_price": "0",
+      "shop": "true",
+      "shop_price": "8000",
       "location": "Player Smiths",
       "members": "false",
       "logo_url": "https://raw.githubusercontent.com/lamehillbilly/2004items/refs/heads/main/item_icons/rune_dagger.png",
@@ -16953,5 +16953,6 @@
       "low_alchemy": "0",
       "notes": ""
     }
+
   ]
 }
