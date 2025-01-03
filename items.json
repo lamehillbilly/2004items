@@ -471,7 +471,7 @@
     },
     {
       "id": "0037",
-      "name": "Adamantite Plate Mail Top",
+      "name": "Adamantite Chainbody",
       "shop": "false",
       "shop_price": "0",
       "location": "player made or from some shops",
@@ -1901,7 +1901,7 @@
     },
     {
       "id": "0147",
-      "name": "Black Plate Mail Body",
+      "name": "Black Chainbody",
       "shop": "true",
       "shop_price": "3,840",
       "location": "Plate Mail Shop in Varrock",
@@ -2980,7 +2980,7 @@
     },
     {
       "id": "0230",
-      "name": "Bronze Plate Mail Body",
+      "name": "Bronze Platebody",
       "shop": "true",
       "shop_price": "160",
       "location": "Plate Mail Store in Varrock",
@@ -8063,7 +8063,7 @@
     },
     {
       "id": "0621",
-      "name": "Iron Plate Mail Body",
+      "name": "Iron Chainbody",
       "shop": "true",
       "shop_price": "560",
       "location": "Plate Mail Store in Varrock",
@@ -8076,7 +8076,7 @@
     },
     {
       "id": "0622",
-      "name": "Iron Plate Mail Legs",
+      "name": "Iron Platelegs",
       "shop": "true",
       "shop_price": "280",
       "location": "Louies Legs in Al Kharid, Plate Mail Shop in Varrock",
@@ -8089,7 +8089,7 @@
     },
     {
       "id": "0623",
-      "name": "Iron Plate Mail Top",
+      "name": "Iron Platebody",
       "shop": "false",
       "shop_price": "0",
       "location": "No Location Available",
@@ -9636,7 +9636,7 @@
     },
     {
       "id": "0742",
-      "name": "Mithril Plate Mail Body",
+      "name": "Mithril Chainbody",
       "shop": "true",
       "shop_price": "5200",
       "location": "Plate Mail Shop in Varrock",
@@ -9649,7 +9649,7 @@
     },
     {
       "id": "0743",
-      "name": "Mithril Plate Mail Legs",
+      "name": "Mithril Platelegs",
       "shop": "false",
       "shop_price": "0",
       "location": "Louies Legs in Al kharid",
@@ -9675,7 +9675,7 @@
     },
     {
       "id": "0745",
-      "name": "Mithril Plated Skirt",
+      "name": "Mithril PlateSkirt",
       "shop": "false",
       "shop_price": "0",
       "location": "Skirt store in Al Kharid",
@@ -13042,7 +13042,7 @@
     },
     {
       "id": "1006",
-      "name": "Rune Plate Mail Body (G)",
+      "name": "Rune Platebody (G)",
       "shop": "false",
       "shop_price": "0",
       "location": "Obtained by completing a treasure trail.",
@@ -13055,7 +13055,7 @@
     },
     {
       "id": "1007",
-      "name": "Rune Plate Mail Body (T)",
+      "name": "Rune Platebody (T)",
       "shop": "false",
       "shop_price": "0",
       "location": "Obtained by completing a treasure trail.",
@@ -13068,7 +13068,7 @@
     },
     {
       "id": "1008",
-      "name": "Rune Plate Mail Legs",
+      "name": "Rune Platelegs",
       "shop": "true",
       "shop_price": "64,000",
       "location": "Purchased at Champion's Guild",
@@ -13081,12 +13081,12 @@
     },
     {
       "id": "1009",
-      "name": "Rune Plate Mail Body",
+      "name": "Rune Platebody",
       "shop": "true",
       "shop_price": "65,000",
       "location": "No Location Available",
       "members": "false",
-      "logo_url": "https://raw.githubusercontent.com/lamehillbilly/2004items/refs/heads/main/item_icons/rune_chainbody.png",
+      "logo_url": "https://raw.githubusercontent.com/lamehillbilly/2004items/refs/heads/main/item_icons/rune_platebody.png",
       "street_price": "0",
       "high_alchemy": "0",
       "low_alchemy": "0",
@@ -14589,7 +14589,7 @@
     },
     {
       "id": "1125",
-      "name": "Steel Plate Body",
+      "name": "Steel Platebody",
       "shop": "true",
       "shop_price": "1,920",
       "location": "Plate Mail Store in Varrock",
@@ -14602,7 +14602,7 @@
     },
     {
       "id": "1126",
-      "name": "Steel Plate Mail Legs",
+      "name": "Steel Platelegs",
       "shop": "false",
       "shop_price": "0",
       "location": "Louies Legs in Al Kharid",
@@ -14615,12 +14615,12 @@
     },
     {
       "id": "1127",
-      "name": "Steel Plate Mail Top",
+      "name": "Steel Chainbody",
       "shop": "false",
       "shop_price": "0",
       "location": "No Location Available",
       "members": "false",
-      "logo_url": "https://raw.githubusercontent.com/lamehillbilly/2004items/refs/heads/main/item_icons/steel_platebody.png",
+      "logo_url": "https://raw.githubusercontent.com/lamehillbilly/2004items/refs/heads/main/item_icons/steel_chainbody.png",
       "street_price": "0",
       "high_alchemy": "0",
       "low_alchemy": "0",
